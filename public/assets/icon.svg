@@ -1,0 +1,14 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo transparente -->
+  <rect width="120" height="120" fill="transparent" />
+  
+  <!-- Letra P (Azul Cian) -->
+  <text x="40" y="75" font-family="Arial, sans-serif" font-size="50" fill="#00FFFF" text-anchor="middle">
+    P
+  </text>
+  
+  <!-- Letra H (Naranja) -->
+  <text x="80" y="75" font-family="Arial, sans-serif" font-size="50" fill="#FFA500" text-anchor="middle">
+    H
+  </text>
+</svg>
